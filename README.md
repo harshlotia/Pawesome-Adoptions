@@ -106,4 +106,4 @@ When an adoption request is **accepted**, the pet's status is set to `adopted` a
 
 ## Live Demo
 
-No live deployment — run locally following the steps above.
+Watch the project walkthrough: [Pawesome Adoptions — Demo Video](https://iu.mediaspace.kaltura.com/media/t/1_p54u11hr)
